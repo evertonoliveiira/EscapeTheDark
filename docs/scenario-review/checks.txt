@@ -1,0 +1,97 @@
+Estado inicial e bloqueios
+Tecla F
+Soltar F
+Interruptor sem pilha
+Jogador focaliza a pilha
+Pilha visivel sob luz de emergencia
+Tecla E
+Soltar E
+Pilha instalada acende a lanterna
+Tecla F
+Soltar F
+Desliga apos instalar a pilha
+Tecla F
+Soltar F
+Religa sem perder a pilha
+Jogador focaliza o quadro
+Quadro visivel
+Tecla E
+Soltar E
+Plano de contingencia
+Tecla Escape
+Soltar Escape
+Reserva da farmacia
+Jogador focaliza a reserva
+Reserva alcançavel
+Tecla E
+Soltar E
+Primeira coleta sem energia automatica
+Tecla E
+Soltar E
+Circuito da recepcao
+Abertura fisica do atalho
+NavMesh do atalho
+Pista da observacao
+Tecla E
+Soltar E
+Codigo registrado
+Tecla Escape
+Soltar Escape
+Teclado da enfermaria
+Armario alcançavel
+Tecla E
+Soltar E
+Tecla Digit1
+Soltar Digit1
+Tecla Digit1
+Soltar Digit1
+Tecla Digit1
+Soltar Digit1
+Tecla Enter
+Soltar Enter
+Codigo incorreto recusado
+Tecla Digit2
+Soltar Digit2
+Tecla Digit4
+Soltar Digit4
+Tecla Digit1
+Soltar Digit1
+Tecla Enter
+Soltar Enter
+Abertura do armario
+Peca na prateleira
+Segunda peca visivel
+Tecla E
+Soltar E
+Ameaca apos a segunda peca
+Tecla E
+Soltar E
+Leitura pausa a criatura
+Criatura permanece parada
+Tecla Escape
+Soltar Escape
+Travessia real do agente pelo atalho
+Agente atravessou o corredor
+Instalacao do segundo circuito
+Tecla E
+Soltar E
+Equipamento energizado
+Acao de isolar equipamento
+Inicia retirada
+Interrompe retirada
+Soltar E cancela a retirada
+Retirada completa
+Ultimo fusivel retirado
+Ultima peca nao libera saida sozinha
+Tecla E
+Soltar E
+Tres circuitos instalados
+Saida exige acionamento
+Aciona a saida
+Vitoria pelo comando da saida
+Solta interacao
+Tecla R
+Soltar R
+Reinicio carrega nova partida
+Estado reiniciado
+Atalho fecha novamente

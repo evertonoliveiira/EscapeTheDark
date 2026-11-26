@@ -1,0 +1,29 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/artifacts/
+/.vs/
+*.csproj
+*.sln
+*.slnx
+
+# Pacotes importados pela Unity Asset Store
+/Assets/Arya of Terror - FREE Gore Gloom Hits/
+/Assets/Arya of Terror - FREE Gore Gloom Hits.meta
+/Assets/Creep Horror Creature/
+/Assets/Creep Horror Creature.meta
+/Assets/Dnk_Dev/
+/Assets/Dnk_Dev.meta
+/Assets/Footsteps - Essentials/
+/Assets/Footsteps - Essentials.meta
+
+# Materiais gerados a partir do Hospital Horror Pack
+/Assets/Materials/HospitalFloor.mat
+/Assets/Materials/HospitalFloor.mat.meta
+/Assets/Materials/HospitalWall.mat
+/Assets/Materials/HospitalWall.mat.meta
+/Assets/Materials.meta

@@ -1,0 +1,80 @@
+{
+    "measurement": "Mean display brightness in the same world-space view; HUD and flashlight housing excluded.",
+    "maximumUnlitBrightness": 0.02500000037252903,
+    "minimumUnlitBrightness": 0.0010000000474974513,
+    "minimumBrightnessGain": 0.004999999888241291,
+    "rooms": [
+        {
+            "room": 1,
+            "flashlightOnBrightness": 0.01241596695035696,
+            "flashlightOffBrightness": 0.0013851014664396644,
+            "brightnessRatio": 8.963940620422363,
+            "brightnessGain": 0.011030865833163261,
+            "passed": true
+        },
+        {
+            "room": 2,
+            "flashlightOnBrightness": 0.01066719088703394,
+            "flashlightOffBrightness": 0.0016599488444626331,
+            "brightnessRatio": 6.4262166023254395,
+            "brightnessGain": 0.009007241576910019,
+            "passed": true
+        },
+        {
+            "room": 3,
+            "flashlightOnBrightness": 0.012732986360788345,
+            "flashlightOffBrightness": 0.001983020920306444,
+            "brightnessRatio": 6.421004772186279,
+            "brightnessGain": 0.010749965906143188,
+            "passed": true
+        },
+        {
+            "room": 4,
+            "flashlightOnBrightness": 0.01198892667889595,
+            "flashlightOffBrightness": 0.00138026662170887,
+            "brightnessRatio": 8.68595027923584,
+            "brightnessGain": 0.01060866005718708,
+            "passed": true
+        },
+        {
+            "room": 5,
+            "flashlightOnBrightness": 0.016213297843933105,
+            "flashlightOffBrightness": 0.0016678679967299104,
+            "brightnessRatio": 9.720972061157227,
+            "brightnessGain": 0.01454542949795723,
+            "passed": true
+        },
+        {
+            "room": 6,
+            "flashlightOnBrightness": 0.014229998923838139,
+            "flashlightOffBrightness": 0.001971036195755005,
+            "brightnessRatio": 7.219552516937256,
+            "brightnessGain": 0.012258962728083134,
+            "passed": true
+        },
+        {
+            "room": 7,
+            "flashlightOnBrightness": 0.020275304093956947,
+            "flashlightOffBrightness": 0.0010182888945564628,
+            "brightnessRatio": 19.911151885986328,
+            "brightnessGain": 0.019257014617323875,
+            "passed": true
+        },
+        {
+            "room": 8,
+            "flashlightOnBrightness": 0.03792847320437431,
+            "flashlightOffBrightness": 0.01682928577065468,
+            "brightnessRatio": 2.253718614578247,
+            "brightnessGain": 0.021099187433719635,
+            "passed": true
+        },
+        {
+            "room": 9,
+            "flashlightOnBrightness": 0.039904773235321045,
+            "flashlightOffBrightness": 0.0021268315613269806,
+            "brightnessRatio": 18.762544631958008,
+            "brightnessGain": 0.037777941673994064,
+            "passed": true
+        }
+    ]
+}
